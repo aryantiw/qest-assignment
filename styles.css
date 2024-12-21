@@ -550,7 +550,6 @@ nav {
 
 .nav-links a {
     text-decoration: none;
-    color: white;
     font-size: 16px;
     transition: color 0.3s ease;
 }
