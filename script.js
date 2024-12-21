@@ -37,3 +37,8 @@ document.querySelectorAll('.nav-links a').forEach(anchor => {
         });
     });
 });
+
+function toggleMenu() {
+    const navLinks = document.querySelector('.nav-links');
+    navLinks.classList.toggle('show');
+}
